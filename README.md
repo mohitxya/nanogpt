@@ -1,0 +1,2 @@
+- Training a GPT-2 model from scratch on a smaller dataset. 
+- Learning its internals
